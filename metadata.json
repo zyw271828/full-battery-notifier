@@ -1,8 +1,10 @@
 {
   "name": "Full Battery Notifier",
-  "description": "Get notified when the battery is charged to a certain percentage",
-  "uuid": "full-battery-notifier@zyw271828.github.com",
+  "description": "Get notified when the battery is charged to a certain percentage.",
+  "version": 1,
+  "uuid": "full-battery-notifier@zyw271828.github.io",
   "shell-version": [
     "3.38"
-  ]
+  ],
+  "url": "https://github.com/zyw271828/full-battery-notifier"
 }
