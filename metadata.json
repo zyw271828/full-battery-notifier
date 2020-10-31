@@ -1,0 +1,8 @@
+{
+  "name": "Full Battery Notifier",
+  "description": "Get notified when the battery is charged to a certain percentage",
+  "uuid": "full-battery-notifier@zyw271828.github.com",
+  "shell-version": [
+    "3.38"
+  ]
+}
